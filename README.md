@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abjelovuk
+- 👋 Hi, I’m Aleksandar!
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
